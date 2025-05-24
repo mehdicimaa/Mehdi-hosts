@@ -85,7 +85,6 @@
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 dsp-vast.unityads.unity3d.com
-0.0.0.0 gateway.unityads.unity3d.com
 0.0.0.0 unityads.unity3d.com.edgekey.net
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 vid-uap.iads.unity3d.com
